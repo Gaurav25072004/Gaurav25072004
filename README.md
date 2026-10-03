@@ -58,3 +58,18 @@ RAG • FAISS • Hugging Face • Gemini • Embeddings • Vector Search
 ### 📚 Concepts
 
 `REST APIs` `OOP` `DSA` `WebSocket` `CRUD` `RAG` `Vector Search`
+
+
+
+---
+
+# 🧠 Problem Solving (DSA)
+
+- 💻 Strong problem-solving foundation using **Java**
+- 🧩 Regular practice on **LeetCode**
+- 📚 Practicing **Arrays, Strings, Hashing, Sliding Window, Two Pointers, Sorting and other DSA patterns**
+- 🎯 Focusing on DSA for **software development placements**
+
+### 🔗 LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Gauravmishra_1234/)
