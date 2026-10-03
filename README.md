@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Mishra
 
-<!--
-**Gaurav25072004/Gaurav25072004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Java | Full Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+🎓 MCA Student at VIT Vellore  
+💻 Interested in Software Development  
+🚀 Building Full-Stack and AI-powered applications  
+🧠 Practicing Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at VIT Vellore
+- 💻 Interested in **Java, Spring Boot and Full Stack Development**
+- 🌐 Working with **React, Node.js, Express and MongoDB**
+- 🤖 Exploring **Generative AI, RAG and AI-powered applications**
+- 🧠 Regularly practicing **Data Structures & Algorithms**
+- 💡 Interested in building practical and scalable software solutions
