@@ -67,3 +67,46 @@ RAG • FAISS • Hugging Face • Gemini • Embeddings • Vector Search
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Gauravmishra_1234/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Gauravmishra_1234?theme=dark)](https://leetcode.com/u/Gauravmishra_1234/)
+
+
+
+
+
+
+---
+
+# 📂 Featured Projects
+
+## 🔬 ResearchMate AI
+
+AI-powered research assistant that helps students analyze research papers, retrieve relevant information, answer questions from uploaded documents, and generate **Potential Research Directions**.
+
+### 🛠️ Technologies
+
+`Python` `RAG` `FAISS` `Gemini` `Embeddings` `Streamlit`
+
+🔗 [View Repository](https://github.com/Gaurav25072004/ResearchMate-AI)
+
+---
+
+## 🎓 Alumni Management Portal
+
+Full-stack alumni management platform designed to manage alumni profiles, events, jobs, users and administrative operations.
+
+### 🛠️ Technologies
+
+`React` `Node.js` `Express` `MongoDB`
+
+🔗 [View Repository](YOUR_ALUMNI_REPOSITORY_LINK)
+
+---
+
+## 💬 SyncChat
+
+Real-time chatroom application designed for instant communication using WebSocket technology.
+
+### 🛠️ Technologies
+
+`JavaScript` `WebSocket` `Node.js`
+
+🔗 [View Repository](YOUR_SYNCCHAT_REPOSITORY_LINK)
