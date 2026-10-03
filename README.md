@@ -97,3 +97,16 @@ AI-powered research assistant designed to help students analyze research papers,
 - ⚡ Gemini-powered intelligent responses
 
 🔗 [View ResearchMate AI Repository](https://github.com/Gaurav25072004/ResearchMate-AI)
+
+
+
+
+---
+
+# 🌱 Current Focus
+
+- 🧠 Strengthening **Data Structures & Algorithms** using Java
+- ☕ Improving **Java and Spring Boot** development skills
+- 🌐 Building and improving **Full-Stack applications**
+- 🤖 Exploring **Generative AI, RAG and LLM-powered applications**
+- 💼 Preparing for **Software Development placements**
