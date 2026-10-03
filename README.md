@@ -18,12 +18,6 @@
 - 🧠 Regularly practicing **Data Structures & Algorithms**
 - 💡 Interested in building practical and scalable software solutions
 
-
-
-
-
----
-
 ---
 
 # 🛠️ Skill Stack
@@ -37,7 +31,7 @@
 ## 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ## 🤖 AI / ML
@@ -59,8 +53,6 @@ RAG • FAISS • Hugging Face • Gemini • Embeddings • Vector Search
 
 `REST APIs` `OOP` `DSA` `WebSocket` `CRUD` `RAG` `Vector Search`
 
-
-
 ---
 
 # 🧠 Problem Solving (DSA)
@@ -73,3 +65,5 @@ RAG • FAISS • Hugging Face • Gemini • Embeddings • Vector Search
 ### 🔗 LeetCode Profile
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Gauravmishra_1234/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Gauravmishra_1234?theme=dark)](https://leetcode.com/u/Gauravmishra_1234/)
