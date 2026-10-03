@@ -110,3 +110,32 @@ AI-powered research assistant designed to help students analyze research papers,
 - 🌐 Building and improving **Full-Stack applications**
 - 🤖 Exploring **Generative AI, RAG and LLM-powered applications**
 - 💼 Preparing for **Software Development placements**
+
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gaurav-mishra-120ab6373/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://github.com/Gaurav25072004" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+<a href="https://leetcode.com/u/Gauravmishra_1234/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" />
+</a>
+
+<a href="mailto:gauravmishra250708@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+<a href="https://www.instagram.com/im_gauuravv/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="45" />
+</a>
+
+</p>
