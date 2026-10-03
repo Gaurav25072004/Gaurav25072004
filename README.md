@@ -75,38 +75,25 @@ RAG • FAISS • Hugging Face • Gemini • Embeddings • Vector Search
 
 ---
 
-# 📂 Featured Projects
+---
+
+# 📂 Featured Project
 
 ## 🔬 ResearchMate AI
 
-AI-powered research assistant that helps students analyze research papers, retrieve relevant information, answer questions from uploaded documents, and generate **Potential Research Directions**.
+AI-powered research assistant designed to help students analyze research papers, retrieve relevant information, answer questions from uploaded documents, and generate **Potential Research Directions**.
 
 ### 🛠️ Technologies
 
 `Python` `RAG` `FAISS` `Gemini` `Embeddings` `Streamlit`
 
-🔗 [View Repository](https://github.com/Gaurav25072004/ResearchMate-AI)
+### ✨ Key Features
 
----
+- 📄 Upload and process research documents
+- 🔎 Semantic search using embeddings and FAISS
+- 🤖 Ask questions about uploaded research papers
+- 🧠 Generate AI-assisted **Potential Research Directions**
+- 📚 Supports PDF, DOCX, PPTX and TXT documents
+- ⚡ Gemini-powered intelligent responses
 
-## 🎓 Alumni Management Portal
-
-Full-stack alumni management platform designed to manage alumni profiles, events, jobs, users and administrative operations.
-
-### 🛠️ Technologies
-
-`React` `Node.js` `Express` `MongoDB`
-
-🔗 [View Repository](YOUR_ALUMNI_REPOSITORY_LINK)
-
----
-
-## 💬 SyncChat
-
-Real-time chatroom application designed for instant communication using WebSocket technology.
-
-### 🛠️ Technologies
-
-`JavaScript` `WebSocket` `Node.js`
-
-🔗 [View Repository](YOUR_SYNCCHAT_REPOSITORY_LINK)
+🔗 [View ResearchMate AI Repository](https://github.com/Gaurav25072004/ResearchMate-AI)
