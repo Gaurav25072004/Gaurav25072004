@@ -24,6 +24,8 @@
 
 ---
 
+---
+
 # 🛠️ Skill Stack
 
 ## 💻 Languages & Frameworks
@@ -35,7 +37,7 @@
 ## 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
 ## 🤖 AI / ML
@@ -47,22 +49,6 @@
 **Also working with:**  
 RAG • FAISS • Hugging Face • Gemini • Embeddings • Vector Search
 
-
-
-
-
----
-
-# 🧠 Problem Solving (DSA)
-
-- 💻 Strong problem-solving foundation using **Java**
-- 🧩 Regular practice on **LeetCode**
-- 📚 Practicing **Arrays, Strings, Hashing, Sliding Window, Two Pointers, Sorting and other DSA patterns**
-- 🎯 Focusing on DSA for **software development placements**
-
-### 🔗 LeetCode Profile
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Gauravmishra_1234/)
 ## 🔧 Tools & Platforms
 
 <p align="left">
