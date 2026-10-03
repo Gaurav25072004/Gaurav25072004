@@ -17,3 +17,42 @@
 - 🤖 Exploring **Generative AI, RAG and AI-powered applications**
 - 🧠 Regularly practicing **Data Structures & Algorithms**
 - 💡 Interested in building practical and scalable software solutions
+
+
+
+
+
+---
+
+# 🛠️ Skill Stack
+
+## 💻 Languages & Frameworks
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,spring" />
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🤖 AI / ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+**Also working with:**  
+RAG • FAISS • Hugging Face • Gemini • Embeddings • Vector Search
+
+## 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+### 📚 Concepts
+
+`REST APIs` `OOP` `DSA` `WebSocket` `CRUD` `RAG` `Vector Search`
